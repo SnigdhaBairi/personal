@@ -50,6 +50,7 @@ Future Improvements
 - Integration with hospital PACS systems
 
 Why I Built This
+
 During my undergraduate studies, I became interested in how AI could assist in medical diagnosis. This project was my exploration into applying deep learning to real-world healthcare problems.
    
 Challenges Faced
